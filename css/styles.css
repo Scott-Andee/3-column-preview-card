@@ -72,6 +72,6 @@ p{
 }
 @media (max-width: 375px){
     p{
-        width: 200px
+        Font-size:0.8rem
     }
 }
